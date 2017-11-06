@@ -1,0 +1,2 @@
+# WeChatHardWareDoc
+关于微信硬件开发的相关内容梳理和总结
